@@ -6,5 +6,5 @@
   - A = input
   - BUTTON CONVERT 
   - Convert equal C = A/B
-  - print c 
+  - print C
   - End

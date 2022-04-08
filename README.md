@@ -9,5 +9,13 @@
   - print C
   - End
 
-## WEEK 2 --- WEDNESDAY
+## WEEK 1 --- WEDNESDAY
 - 10100 01 1111100101   /// 22/01/1995
+
+## WEEK1  --- THURSDAY
+- for (let a = 0; a < 100; a++1){
+    if(a % 2 == 0);
+    console.log(a)
+}
+
+-

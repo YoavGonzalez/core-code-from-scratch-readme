@@ -22,7 +22,8 @@
 
 
 ## WEEK 2  --- TUESDAY
--var a = 1,
+-Multiply excercise
+ -   var a = 1,
      b = 2;
 function multiply (a,b){
 return (a*b)

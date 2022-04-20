@@ -28,4 +28,12 @@ function multiply(a,b){
     return total;
 }
 multiply(1,2)
--ASCII 
+
+- ASCII 
+function uniTotal(str) {
+  let palabrabra = 0;
+  for (let i = 0, length = str.length; i < length; i++) {
+    total += str[i].charCodeAt();
+  }
+  return palabra;
+}

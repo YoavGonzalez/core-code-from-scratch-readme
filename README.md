@@ -23,9 +23,9 @@
 
 ## WEEK 2  --- TUESDAY
 -Multiply excercise
- -   var a = 1,
-     b = 2;
-function multiply (a,b){
-return (a*b)
+function multiply(a,b){
+    let total =a*b;
+    return total;
 }
-Multiply();
+multiply(1,2)
+-ASCII 

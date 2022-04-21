@@ -37,3 +37,11 @@ function uniTotal(str) {
   }
   return palabra;
 }
+
+
+## Week 2 ---Wednesday
+- Holiday VIII - Duty Free
+  - function dutyFree(normPrice, discount, hol){
+  var saveTot = hol/((normPrice * discount)/100);
+  return (Math.floor(saveTot));
+  }

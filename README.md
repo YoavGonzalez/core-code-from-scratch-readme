@@ -26,7 +26,17 @@ if (cond == true) {
   console.log('The cond variable is false');
 }
 
-3 
+3  var n = 100
+  if ( n == 100){
+    console.log('This is a special number!');
+} else {
+  if(n < 1000 && n % 10 == 0){
+    console.log('Just a regular number');
+ } else{
+    console.log('This number is multiple of 10');
+ }
+}
+
 
 
 ## WEEK 2  --- TUESDAY

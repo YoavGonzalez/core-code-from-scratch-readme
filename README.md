@@ -13,12 +13,20 @@
 - 10100 01 1111100101   /// 22/01/1995
 
 ## WEEK1  --- THURSDAY
-- for (let a = 0; a < 100; a++){
+1 for (let a = 0; a < 100; a++){
     if(a % 2 == 0);
     console.log(a)
 }
 
--
+2 var cond = false;
+
+if (cond == true) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+
+3 
 
 
 ## WEEK 2  --- TUESDAY

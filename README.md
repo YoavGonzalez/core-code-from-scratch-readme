@@ -13,12 +13,16 @@
 - 10100 01 1111100101   /// 22/01/1995
 
 ## WEEK 1  --- THURSDAY
-Ejercicio 1 for (let a = 0; a < 100; a++){
+Ejercicio 1 
+
+for (let a = 0; a < 100; a++){
     if(a % 2 == 0);
     console.log(a)
 }
 
-Ejercicio 2 var cond = false;
+Ejercicio 2 
+
+var cond = false;
 
 if (cond == true) {
   console.log('The cond variable is true');
@@ -26,7 +30,9 @@ if (cond == true) {
   console.log('The cond variable is false');
 }
 
-Ejercicio 3  var n = 100
+Ejercicio 3 
+
+var n = 100
   if ( n == 100){
     console.log('This is a special number!');
 } else {

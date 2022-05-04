@@ -47,6 +47,7 @@ var n = 100
 
 ## WEEK 2  --- TUESDAY
 -Multiply excercise
+
 function multiply(a,b){
     let total =a*b;
     return total;
@@ -54,6 +55,7 @@ function multiply(a,b){
 multiply(1,2)
 
 - ASCII 
+
 function uniTotal(str) {
   let palabrabra = 0;
   for (let i = 0, length = str.length; i < length; i++) {
@@ -61,6 +63,8 @@ function uniTotal(str) {
   }
   return palabra;
 }
+
+
 
 
 ## Week 2 ---Wednesday
